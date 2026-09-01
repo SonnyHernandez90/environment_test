@@ -61,4 +61,4 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-gem 'yaml_db'
+gem "yaml_db"
